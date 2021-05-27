@@ -29,7 +29,7 @@ Looks nice doesn't it? Those are called badges and they do improve the readabili
 
 There are endless badges that you could use in your projects. And they do depend on the project. Some of the ones that I commonly use in every projects are given below. 
 
-I use [**Shields IO**](https://shields.io/) for making badges. It is a simple and easy to use tool that you can use for almost all your badge cravings.
+You can use [**Shields IO**](https://shields.io/) for making badges. It is a simple and easy to use tool that you can use for almost all your badge cravings.
 
 <!-- Add badges with link to Shields IO -->
 
