@@ -15,13 +15,13 @@
 
 The project title should be self-explanatory and try not to make it a mouthful. (Although exceptions exist- **awesome-readme-writing-guide-for-open-source-projects** - would have been a cool name)
 
-Add a cover/banner image for your README. **Why?** Because it easily **grabs people's attention** and it **looks cool**(*duh!obviously!*).
+Add a cover/banner image for your README. **Why?** Because it easily **grabs people's attention**.
 
-Wait, I forgot something. You can use this README as a template from [this link](README-template.md).
+
 
 The best dimensions for the banner is **1280x650px**. You could also use this for social preview of your repo.
 
-I personally use [**Canva**](https://www.canva.com/) for creating the banner images. All the basic stuff is **free**(*you won't need the pro version in most cases*).
+
 
 *What are all those flashy thingies below the title?*
 
